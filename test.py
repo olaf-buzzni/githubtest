@@ -1,4 +1,4 @@
-# commit A
+# commit A 2
 # it is change after the branch
 # there should be conflict
 # commit D
