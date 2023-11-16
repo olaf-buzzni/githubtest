@@ -3,7 +3,7 @@
 
 # conflicTTTTTTTTT
 # the conflict line
-
+# this is conflict
 # confC
 
 # commit E
