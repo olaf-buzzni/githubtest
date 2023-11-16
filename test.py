@@ -1,7 +1,7 @@
 # commit A
 # commit D
 
-# conflicTTTTTTTTT
+# this conflict
 # the conflict line
 
 # confC
