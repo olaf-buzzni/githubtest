@@ -2,7 +2,7 @@
 # commit B
 # commit C
 # commit D
-# change line. conflict occur
+# conflicT!!!
 # commit E
 # commit F
 # commit G
