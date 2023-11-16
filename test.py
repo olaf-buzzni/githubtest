@@ -4,7 +4,7 @@
 
 # this conflict
 
-# conflict line comes!!!
+# this is conflict line
 
 # the conflict line
 # this is conflict
