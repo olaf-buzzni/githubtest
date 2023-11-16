@@ -2,7 +2,7 @@
 # commit B
 # commit C
 # commit D
-# conflict!!!!!!!!!!!!!
+# conflict!!!!!!!!!!!!!!!!!!!!!!!!
 # commit E
 # commit F
 # commit G
